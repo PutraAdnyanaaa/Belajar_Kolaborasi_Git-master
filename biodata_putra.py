@@ -10,11 +10,11 @@ hobi = "olahraga"
 
 alamat = "tabanan, tabanan"
 
-Kabupaten = "Tabanan"
+propinsi = "bali"
 
 print("Nama Lengkap:",nama)
 
-print("Alamat",alamat, "\n           Kota ", Kota)
+print("Alamat",alamat, "\n           Kota ", propins)
 
 print("Hobi:",hobi)
 
